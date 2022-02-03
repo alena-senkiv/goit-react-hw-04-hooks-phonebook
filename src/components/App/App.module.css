@@ -1,0 +1,13 @@
+.title {
+  color: var(--color-primary);
+}
+
+.mainTitle {
+  composes: title;
+  font-size: 50px;
+}
+
+.secondaryTitle {
+  composes: title;
+  margin-top: 50px;
+}

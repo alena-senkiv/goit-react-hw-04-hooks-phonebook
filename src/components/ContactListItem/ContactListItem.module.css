@@ -1,0 +1,10 @@
+.contactListItem {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.contactListItem span {
+  color: var(--color-secondary);
+  margin-right: 10px;
+}
