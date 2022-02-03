@@ -1,1 +1,2 @@
-- [Задание - Телефонная книга](https://github.com/goitacademy/react-homework/tree/master/homework-03/phonebook) + переписать на хуки
+- [Задание - Телефонная книга](https://github.com/goitacademy/react-homework/tree/master/homework-03/phonebook)
+  на хуках.
